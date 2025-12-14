@@ -1,20 +1,16 @@
-#EXTM3U billed-msg="M3U PLAYLIST BY: Shakzz Henyo Things🫶"
+#EXTM3U billed-msg="M3U PLAYLIST BY: Cutiepie"
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml, https://www.bevy.be/bevyfiles/philippinespremium2.xml, https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml,https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
 
 
-########## Shakzz ###########
+########## Cutiepie ###########
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9ny3q_5Tf_ku22-a3aC9FnM-7uHJIFzvx8na_r0vq_nBfJyagCTfzlQ&s=10"
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9ny3q_5Tf_ku22-a3aC9FnM-7uHJIFzvx8na_r0vq_nBfJyagCTfzlQ&s=10" group-title="Shakzz", Youtube.com/@Shakzz05
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Kapamilya Channel Logo alpha.png" group-title="Shakzz", Kapamilya Channel HD (iWant)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Kapamilya Channel Logo alpha.png" group-title="Cutiepie", Kapamilya Channel HD (iWant)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
@@ -31,26 +27,26 @@ https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1143/manifest.mpd?token=token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJleHAiOjE3NjY5NTgzNTN9.RSc_LQ11txXXI0d7gZ8GvMOAwoHrWzUUr3CCQCM0Hco
 
-#EXTINF:-1 tvg-id="dreamworks-tagalized" tvg-logo="https://i.imgur.com/bzTr9Y2.png" group-title="Shakzz",Dreamworks Tagalized 
+#EXTINF:-1 tvg-id="dreamworks-tagalized" tvg-logo="https://i.imgur.com/bzTr9Y2.png" group-title="Cutiepie",Dreamworks Tagalized 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBExqGDENellY4q02LutIc4HMJzM9uT2pCWou5dcapaduFQcHHYe2r8rA&s=10" group-title="Shakzz", Disney+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBExqGDENellY4q02LutIc4HMJzM9uT2pCWou5dcapaduFQcHHYe2r8rA&s=10" group-title="Cutiepie", Disney+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f873dc6412b11edb8780242ac120002:7511efa4f5f1f82fe61776ba3b49fc10
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ppvhd298.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shakzz", Asian Hits
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cutiepie", Asian Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Shakzz", HBO Pop
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Cutiepie", HBO Pop
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,7 +55,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Shakzz", Universal Premiere
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Cutiepie", Universal Premiere
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
@@ -67,7 +63,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 
-#EXTINF:-1 group-title="Shakzz",Sinemanila
+#EXTINF:-1 group-title="Cutiepie",Sinemanila
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
 
 
@@ -76,76 +72,76 @@ https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001088/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="tv5-hd" tvg-logo="https://i.imgur.com/U5L67WD.png" group-title="Shakzz",TV5
+#EXTINF:-1 tvg-id="tv5-hd" tvg-logo="https://i.imgur.com/U5L67WD.png" group-title="Cutiepie",TV5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 
-#EXTINF:-1 tvg-id="tvn-movies-pinoy" tvg-logo="https://i.imgur.com/8YhI91e.png" group-title="Shakzz",TVN Movies Pinoy
+#EXTINF:-1 tvg-id="tvn-movies-pinoy" tvg-logo="https://i.imgur.com/8YhI91e.png" group-title="Cutiepie",TVN Movies Pinoy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
 
-#EXTINF:-1 tvg-id="tagalized-movie-channel" tvg-logo="https://i.imgur.com/550RYpJ.png" group-title="Shakzz",TMC (Tagalized Movie Channel)
+#EXTINF:-1 tvg-id="tagalized-movie-channel" tvg-logo="https://i.imgur.com/550RYpJ.png" group-title="Cutiepie",TMC (Tagalized Movie Channel)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Shakzz", TMC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Cutiepie", TMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001080/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Shakzz", NBA TV Philippines
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Cutiepie", NBA TV Philippines
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" group-title="Shakzz", Heart Of Asia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" group-title="Cutiepie", Heart Of Asia
 https://hls.nathcreqtives.com/playlist.m3u8?id=1
 
 https://hls.nathcreqtives.com/playlist.m3u8?id=4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" group-title="Shakzz", I Heart Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" group-title="Cutiepie", I Heart Movies
 https://hls.nathcreqtives.com/playlist.m3u8?id=2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nN0VGRY8/Chat-GPT-Image-Oct-4-2025-05-05-12-AM-1.png" group-title="Shakzz", 3RsTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nN0VGRY8/Chat-GPT-Image-Oct-4-2025-05-05-12-AM-1.png" group-title="Cutiepie", 3RsTV
 https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y83j9Dx/3rs-Sine-Pinoy.png" group-title="Shakzz", SinePinoy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y83j9Dx/3rs-Sine-Pinoy.png" group-title="Cutiepie", SinePinoy
 https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35FTnG31/moviebox.png" group-title="Shakzz", MovieBoxPh
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35FTnG31/moviebox.png" group-title="Cutiepie", MovieBoxPh
 https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/21xyFjtb/download.jpg" group-title="Shakzz", Movies Action
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21xyFjtb/download.jpg" group-title="Cutiepie", Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TM6g5vCY/download-1.jpg" group-title="Shakzz", &Flix HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TM6g5vCY/download-1.jpg" group-title="Cutiepie", &Flix HD
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kc6TsPYF/download-2.jpg" group-title="Shakzz", Movies Sphere
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kc6TsPYF/download-2.jpg" group-title="Cutiepie", Movies Sphere
 https://moviesphereuk-samsunguk.amagi.tv/720p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/605dx1xZ/download-1.png" group-title="Shakzz", Blast Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/605dx1xZ/download-1.png" group-title="Cutiepie", Blast Movies
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/i3o8I01" group-title="Shakzz", ESPN-deportes
+#EXTINF:-1 tvg-logo="https://imgur.com/i3o8I01" group-title="Cutiepie", ESPN-deportes
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="Shakzz", SONY MAX
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="Cutiepie", SONY MAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" group-title="Shakzz", SONY PIX HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" group-title="Cutiepie", SONY PIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
@@ -2580,47 +2576,47 @@ https://pixeldrain.com/api/file/73hnsfQ1
 https://pixeldrain.com/u/EzwjBkSb
 
 #EXTINF:-1 tvg-id="dbz-bog" tvg-name="Dragon Ball Z: Battle of Gods" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlVZJn21VO6PpB0ngI8W5qMow70wBOrOk8y0DlrFAFGN051NvcmrgrAFj522nFr2GT11fGkpaC0v9vkbFOc7km-lmhRMwjWGWtZbfFGg" group-title="Movies", Dragon Ball Z: Battle of Gods
-https://series.shakzz.workers.dev/?id=1HdNzQ__MueYep_vtVCV8mArG5VMedGgb
+https://series.Cutiepie.workers.dev/?id=1HdNzQ__MueYep_vtVCV8mArG5VMedGgb
 
 ####### ONE PUNCH MAN ########
 
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ep1" tvg-name="Episode 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 1
-https://series.shakzz.workers.dev/?id=1FEVkSBw1g5gwz4YimKTuBWfs5kFW0nUq
+https://series.Cutiepie.workers.dev/?id=1FEVkSBw1g5gwz4YimKTuBWfs5kFW0nUq
 
 #EXTINF:-1 tvg-id="ep2" tvg-name="Episode 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 2
-https://series.shakzz.workers.dev/?id=1FSJH9-ttzymb41gX4RgMdA91ybE46eeo
+https://series.Cutiepie.workers.dev/?id=1FSJH9-ttzymb41gX4RgMdA91ybE46eeo
 
 #EXTINF:-1 tvg-id="ep3" tvg-name="Episode 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 3
-https://series.shakzz.workers.dev/?id=1FZSG0tsRdQFwDlexnqCTAPXIn44Zdyl5
+https://series.Cutiepie.workers.dev/?id=1FZSG0tsRdQFwDlexnqCTAPXIn44Zdyl5
 
 #EXTINF:-1 tvg-id="ep4" tvg-name="Episode 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 4
-https://series.shakzz.workers.dev/?id=1Fg-eY4_364iqKHV-Pr0dJELuLml0Nw5N
+https://series.Cutiepie.workers.dev/?id=1Fg-eY4_364iqKHV-Pr0dJELuLml0Nw5N
 
 #EXTINF:-1 tvg-id="ep5" tvg-name="Episode 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 5
-https://series.shakzz.workers.dev/?id=1FfAJd-wNkvL7du6_U-HL3YDmKRBONdky
+https://series.Cutiepie.workers.dev/?id=1FfAJd-wNkvL7du6_U-HL3YDmKRBONdky
 
 #EXTINF:-1 tvg-id="ep6" tvg-name="Episode 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 6
-https://series.shakzz.workers.dev/?id=1FqhQ0ei8O94p1S89waufyLcHSHrOOsaE
+https://series.Cutiepie.workers.dev/?id=1FqhQ0ei8O94p1S89waufyLcHSHrOOsaE
 
 #EXTINF:-1 tvg-id="ep7" tvg-name="Episode 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 7
-https://series.shakzz.workers.dev/?id=1FgY6TIJGFbDYjtT-aUI4vXHeOeY2Qn26
+https://series.Cutiepie.workers.dev/?id=1FgY6TIJGFbDYjtT-aUI4vXHeOeY2Qn26
 
 #EXTINF:-1 tvg-id="ep8" tvg-name="Episode 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 8
-https://series.shakzz.workers.dev/?id=1Fy-CVAKzIwyNG3pkCsn97eB0wIEdeWI4
+https://series.Cutiepie.workers.dev/?id=1Fy-CVAKzIwyNG3pkCsn97eB0wIEdeWI4
 
 #EXTINF:-1 tvg-id="ep9" tvg-name="Episode 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 9
-https://series.shakzz.workers.dev/?id=1FwuIRL_c_syiAQN5RMZv2mr_NmKeVVmn
+https://series.Cutiepie.workers.dev/?id=1FwuIRL_c_syiAQN5RMZv2mr_NmKeVVmn
 
 #EXTINF:-1 tvg-id="ep10" tvg-name="Episode 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 10
-https://series.shakzz.workers.dev/?id=1GBVyvg5ojhsLW6W1RR1KVH_lwS9JNwNf
+https://series.Cutiepie.workers.dev/?id=1GBVyvg5ojhsLW6W1RR1KVH_lwS9JNwNf
 
 #EXTINF:-1 tvg-id="ep11" tvg-name="Episode 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 11
-https://series.shakzz.workers.dev/?id=1G7zZkdzJKrh0PSejaxrmgkDMyI_WSjbH
+https://series.Cutiepie.workers.dev/?id=1G7zZkdzJKrh0PSejaxrmgkDMyI_WSjbH
 
 #EXTINF:-1 tvg-id="ep12" tvg-name="Episode 12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 12
-https://series.shakzz.workers.dev/?id=1GEi51c0Oo6zkshEa1E1pagK591QbHMCW
+https://series.Cutiepie.workers.dev/?id=1GEi51c0Oo6zkshEa1E1pagK591QbHMCW
 
 ####### MY HERO ACADEMIA ########
 
@@ -2628,118 +2624,118 @@ https://series.shakzz.workers.dev/?id=1GEi51c0Oo6zkshEa1E1pagK591QbHMCW
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 1
-https://series.shakzz.workers.dev/?id=12rBQ2zQw4tSi2Fmii2lzRamR4233ads3
+https://series.Cutiepie.workers.dev/?id=12rBQ2zQw4tSi2Fmii2lzRamR4233ads3
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 2
-https://series.shakzz.workers.dev/?id=1uA5SGVEXleO6figHixpepeASmsjyK2EF
+https://series.Cutiepie.workers.dev/?id=1uA5SGVEXleO6figHixpepeASmsjyK2EF
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 3
-https://series.shakzz.workers.dev/?id=1Xzaxvi6HwoNkSewmNODjtD4DZrV133aM
+https://series.Cutiepie.workers.dev/?id=1Xzaxvi6HwoNkSewmNODjtD4DZrV133aM
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 4
-https://series.shakzz.workers.dev/?id=1GRiv8evXv8UvKjOmREk13VsfHNJcbxdF
+https://series.Cutiepie.workers.dev/?id=1GRiv8evXv8UvKjOmREk13VsfHNJcbxdF
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 5
-https://series.shakzz.workers.dev/?id=1sL1O49ApSGlFW0ItsPp-gl73rJk3V6Kr
+https://series.Cutiepie.workers.dev/?id=1sL1O49ApSGlFW0ItsPp-gl73rJk3V6Kr
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 6
-https://series.shakzz.workers.dev/?id=1cFnDAyzvJ4tiOIDKX3b9HdOSjF1GoaXU
+https://series.Cutiepie.workers.dev/?id=1cFnDAyzvJ4tiOIDKX3b9HdOSjF1GoaXU
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 7
-https://series.shakzz.workers.dev/?id=1TZMDCyMpAQemFsPJUo6t-wGygIS1t09S
+https://series.Cutiepie.workers.dev/?id=1TZMDCyMpAQemFsPJUo6t-wGygIS1t09S
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 8
-https://series.shakzz.workers.dev/?id=10x_AW2JNAYlZvmuzXCNUMKxqWazvkm4o
+https://series.Cutiepie.workers.dev/?id=10x_AW2JNAYlZvmuzXCNUMKxqWazvkm4o
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 9
-https://series.shakzz.workers.dev/?id=1DbsJ9oUcHUc2jjUriSeUPpSbaKVxuebv
+https://series.Cutiepie.workers.dev/?id=1DbsJ9oUcHUc2jjUriSeUPpSbaKVxuebv
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 10
-https://series.shakzz.workers.dev/?id=1flzuItH54yXvNAz4jtlKgBaqGCa5cDvS
+https://series.Cutiepie.workers.dev/?id=1flzuItH54yXvNAz4jtlKgBaqGCa5cDvS
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 11
-https://series.shakzz.workers.dev/?id=198rke-rZRDYJAZsYGuY0aarRD3velu4y
+https://series.Cutiepie.workers.dev/?id=198rke-rZRDYJAZsYGuY0aarRD3velu4y
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 12
-https://series.shakzz.workers.dev/?id=1kYRp-hj6UObK3cjM_JZffAB02FelYzvF
+https://series.Cutiepie.workers.dev/?id=1kYRp-hj6UObK3cjM_JZffAB02FelYzvF
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 13
-https://series.shakzz.workers.dev/?id=1ZOmLpVNfEOGPTeKSe-KV_bVho_LfZg0C
+https://series.Cutiepie.workers.dev/?id=1ZOmLpVNfEOGPTeKSe-KV_bVho_LfZg0C
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 1
-https://series.shakzz.workers.dev/?id=1wr73k7xxIe_7OSux5OZLV6dbkkwv9-1t
+https://series.Cutiepie.workers.dev/?id=1wr73k7xxIe_7OSux5OZLV6dbkkwv9-1t
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep  2
-https://series.shakzz.workers.dev/?id=1w9PHA2QNyeeGoTammtsOGsyERoRq3qKp
+https://series.Cutiepie.workers.dev/?id=1w9PHA2QNyeeGoTammtsOGsyERoRq3qKp
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 3
-https://series.shakzz.workers.dev/?id=1dNriqawpGCebW9XOXO7-HeiCtcWtvIlH
+https://series.Cutiepie.workers.dev/?id=1dNriqawpGCebW9XOXO7-HeiCtcWtvIlH
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 4
-https://series.shakzz.workers.dev/?id=1L0utPEJb0Ovg3KL7U2rShXGZxpBdKW9V
+https://series.Cutiepie.workers.dev/?id=1L0utPEJb0Ovg3KL7U2rShXGZxpBdKW9V
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 5
-https://series.shakzz.workers.dev/?id=1cfL9GpyAsRMRocxUU6ESiDC2eteo1OMZ
+https://series.Cutiepie.workers.dev/?id=1cfL9GpyAsRMRocxUU6ESiDC2eteo1OMZ
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 6
-https://series.shakzz.workers.dev/?id=17LdGqYiX21E6dOl_xtmZNKaeZ744cpF-
+https://series.Cutiepie.workers.dev/?id=17LdGqYiX21E6dOl_xtmZNKaeZ744cpF-
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 7
-https://series.shakzz.workers.dev/?id=1hx2t8uKYwrKCEn5k_UwZQtnvUn8hfr0k
+https://series.Cutiepie.workers.dev/?id=1hx2t8uKYwrKCEn5k_UwZQtnvUn8hfr0k
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 8
-https://series.shakzz.workers.dev/?id=17L7yIwJ15iVaZFaWtAbh7847BVoDyWjU
+https://series.Cutiepie.workers.dev/?id=17L7yIwJ15iVaZFaWtAbh7847BVoDyWjU
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 9
-https://series.shakzz.workers.dev/?id=1DNascgeXxPgrrXwvnTugyUunS2eGWu4G
+https://series.Cutiepie.workers.dev/?id=1DNascgeXxPgrrXwvnTugyUunS2eGWu4G
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 10
-https://series.shakzz.workers.dev/?id=1tYnH8Y-912p2-UR7biM9u6XcOta9Zncj
+https://series.Cutiepie.workers.dev/?id=1tYnH8Y-912p2-UR7biM9u6XcOta9Zncj
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 11
-https://series.shakzz.workers.dev/?id=1lK1PwzznvwhirYfRTHdPl5BTh6VwQvU2
+https://series.Cutiepie.workers.dev/?id=1lK1PwzznvwhirYfRTHdPl5BTh6VwQvU2
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 12
-https://series.shakzz.workers.dev/?id=1KsXUu1n7Bm15zY2cbJZGietG6mz1kimS
+https://series.Cutiepie.workers.dev/?id=1KsXUu1n7Bm15zY2cbJZGietG6mz1kimS
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 13
-https://series.shakzz.workers.dev/?id=1nR2ETX_u8Mch6lDY5clhbwLBFeq9ujh2
+https://series.Cutiepie.workers.dev/?id=1nR2ETX_u8Mch6lDY5clhbwLBFeq9ujh2
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 14
-https://series.shakzz.workers.dev/?id=1x2j5 t1JaP1gRQKgLpP-sYoCR2lVunHl
+https://series.Cutiepie.workers.dev/?id=1x2j5 t1JaP1gRQKgLpP-sYoCR2lVunHl
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 15
-https://series.shakzz.workers.dev/?id=1cVxIbOwKK7TYvRstyGvdJ5F2GpvQBZQS
+https://series.Cutiepie.workers.dev/?id=1cVxIbOwKK7TYvRstyGvdJ5F2GpvQBZQS
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 16
-https://series.shakzz.workers.dev/?id=1Aqbdczjcfeh5VcMAgRnAI35DpABmLnn8
+https://series.Cutiepie.workers.dev/?id=1Aqbdczjcfeh5VcMAgRnAI35DpABmLnn8
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 17
-https://series.shakzz.workers.dev/?id=1OFRtSbJ-sy5IuYvawr8g3uY4_s3oprz9  
+https://series.Cutiepie.workers.dev/?id=1OFRtSbJ-sy5IuYvawr8g3uY4_s3oprz9  
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 18
-https://series.shakzz.workers.dev/?id=1BEHgjlkHBW2madwcr5Ct39G0C0LTgcDI
+https://series.Cutiepie.workers.dev/?id=1BEHgjlkHBW2madwcr5Ct39G0C0LTgcDI
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 19
-https://series.shakzz.workers.dev/?id=1UDg4i_Pp_mFPAgNygGTHyQ3qT5U70Aaf
+https://series.Cutiepie.workers.dev/?id=1UDg4i_Pp_mFPAgNygGTHyQ3qT5U70Aaf
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 20
-https://series.shakzz.workers.dev/?id=10hg1WiqeTGOj8TleUWe68O_vVOTZDzYW
+https://series.Cutiepie.workers.dev/?id=10hg1WiqeTGOj8TleUWe68O_vVOTZDzYW
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 21
-https://series.shakzz.workers.dev/?id=17KWJYJr7ep9lOg3AdMmm_TB665oVNBY-
+https://series.Cutiepie.workers.dev/?id=17KWJYJr7ep9lOg3AdMmm_TB665oVNBY-
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 22
-https://series.shakzz.workers.dev/?id=10t2KVjaS8QgJ3X0gvNC5ejom8QNt0k80
+https://series.Cutiepie.workers.dev/?id=10t2KVjaS8QgJ3X0gvNC5ejom8QNt0k80
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 23
-https://series.shakzz.workers.dev/?id=1yx4IfznTz3NVK2qL3puKxM0SmX_M_idO
+https://series.Cutiepie.workers.dev/?id=1yx4IfznTz3NVK2qL3puKxM0SmX_M_idO
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 24
-https://series.shakzz.workers.dev/?id=1GwJEkU53MU032YCiP-NlKDZZ0J-0mEac
+https://series.Cutiepie.workers.dev/?id=1GwJEkU53MU032YCiP-NlKDZZ0J-0mEac
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 25
-https://series.shakzz.workers.dev/?id=1EGDy6dtNO6M3Nx59Sc-jeO7YP1nOIZF6
+https://series.Cutiepie.workers.dev/?id=1EGDy6dtNO6M3Nx59Sc-jeO7YP1nOIZF6
 
 
 
