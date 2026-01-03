@@ -1,52 +1,64 @@
-#EXTM3U billed-msg="M3U PLAYLIST BY: Cutiepie"
+#EXTM3U billed-msg="M3U PLAYLIST BY: Shakzz Henyo Things🫶"
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml, https://www.bevy.be/bevyfiles/philippinespremium2.xml, https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml,https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
 
 
-########## Cutiepie ###########
+########## Shakzz ###########
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9ny3q_5Tf_ku22-a3aC9FnM-7uHJIFzvx8na_r0vq_nBfJyagCTfzlQ&s=10"
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Kapamilya Channel Logo alpha.png" group-title="Cutiepie", Kapamilya Channel HD (iWant)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9ny3q_5Tf_ku22-a3aC9FnM-7uHJIFzvx8na_r0vq_nBfJyagCTfzlQ&s=10" group-title="Shakzz", Youtube.com/@Shakzz05
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
-#EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="CONVERGE 2",GMA 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Kapamilya Channel Logo alpha.png" group-title="Shakzz", Kapamilya Channel HD (iWant)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
+
+
+#EXTINF:-1 group-title="Shakzz",ALL TV 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.2:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAow35sHUcBhGBpxqddBGYEnsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1260075967329&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HKF4YXSGDBXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453020260101155239201657&ispcode=55 
 
-#EXTINF:-1 tvg-id="1143" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="CONVERGE 2",GTV
+
+#EXTINF:-1 group-title="Shakzz",GMA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1143/manifest.mpd?token=token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoLvT86fM74ocVChyFS93HUsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1438418816418&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BLJMICF8T5XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448620260101155237367179&ispcode=55 
 
-#EXTINF:-1 tvg-id="dreamworks-tagalized" tvg-logo="https://i.imgur.com/bzTr9Y2.png" group-title="Cutiepie",Dreamworks Tagalized 
+#EXTINF:-1 group-title="Shakzz",GTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.10:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArwAtJC%2BsmBQ5ARU076BdkhsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1430687738767&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VTF7PQ0PAOMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446820260101155238998726&ispcode=55 
+
+#EXTINF:-1 tvg-id="dreamworks-tagalized" tvg-logo="https://i.imgur.com/bzTr9Y2.png" group-title="Shakzz",Dreamworks Tagalized 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBExqGDENellY4q02LutIc4HMJzM9uT2pCWou5dcapaduFQcHHYe2r8rA&s=10" group-title="Cutiepie", Disney+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBExqGDENellY4q02LutIc4HMJzM9uT2pCWou5dcapaduFQcHHYe2r8rA&s=10" group-title="Shakzz", Disney+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f873dc6412b11edb8780242ac120002:7511efa4f5f1f82fe61776ba3b49fc10
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ppvhd298.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cutiepie", Asian Hits
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shakzz", Asian Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Cutiepie", HBO Pop
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Shakzz", HBO Pop
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,7 +67,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Cutiepie", Universal Premiere
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Shakzz", Universal Premiere
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
@@ -63,85 +75,85 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 
-#EXTINF:-1 group-title="Cutiepie",Sinemanila
+#EXTINF:-1 group-title="Shakzz",Sinemanila
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Converge", TV5 (Converge)
+#EXTINF:-1 group-title="Shakzz",TV5 (Converge)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001088/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoh0xOsaoSFLqA0PEh9gVjisyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1099183361159&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZRUDOFEVUJOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155237311409&ispcode=55 
 
-#EXTINF:-1 tvg-id="tv5-hd" tvg-logo="https://i.imgur.com/U5L67WD.png" group-title="Cutiepie",TV5
+#EXTINF:-1 tvg-id="tv5-hd" tvg-logo="https://i.imgur.com/U5L67WD.png" group-title="Shakzz",TV5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 
-#EXTINF:-1 tvg-id="tvn-movies-pinoy" tvg-logo="https://i.imgur.com/8YhI91e.png" group-title="Cutiepie",TVN Movies Pinoy
+#EXTINF:-1 tvg-id="tvn-movies-pinoy" tvg-logo="https://i.imgur.com/8YhI91e.png" group-title="Shakzz",TVN Movies Pinoy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
 
-#EXTINF:-1 tvg-id="tagalized-movie-channel" tvg-logo="https://i.imgur.com/550RYpJ.png" group-title="Cutiepie",TMC (Tagalized Movie Channel)
+#EXTINF:-1 tvg-id="tagalized-movie-channel" tvg-logo="https://i.imgur.com/550RYpJ.png" group-title="Shakzz",TMC (Tagalized Movie Channel)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Cutiepie", TMC
+#EXTINF:-1 group-title="Shakzz",TMC  (Tagalized Movie Channel) (Converge)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001080/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.2:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHx%2Fyl86rMkFVqtHp1NtQIsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1388444659651&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VT2SEXWH4EOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445620260101155236094993&ispcode=55 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Cutiepie", NBA TV Philippines
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Shakzz", NBA TV Philippines
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" group-title="Cutiepie", Heart Of Asia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" group-title="Shakzz", Heart Of Asia
 https://hls.nathcreqtives.com/playlist.m3u8?id=1
 
 https://hls.nathcreqtives.com/playlist.m3u8?id=4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" group-title="Cutiepie", I Heart Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" group-title="Shakzz", I Heart Movies
 https://hls.nathcreqtives.com/playlist.m3u8?id=2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nN0VGRY8/Chat-GPT-Image-Oct-4-2025-05-05-12-AM-1.png" group-title="Cutiepie", 3RsTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nN0VGRY8/Chat-GPT-Image-Oct-4-2025-05-05-12-AM-1.png" group-title="Shakzz", 3RsTV
 https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y83j9Dx/3rs-Sine-Pinoy.png" group-title="Cutiepie", SinePinoy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y83j9Dx/3rs-Sine-Pinoy.png" group-title="Shakzz", SinePinoy
 https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35FTnG31/moviebox.png" group-title="Cutiepie", MovieBoxPh
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35FTnG31/moviebox.png" group-title="Shakzz", MovieBoxPh
 https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/21xyFjtb/download.jpg" group-title="Cutiepie", Movies Action
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21xyFjtb/download.jpg" group-title="Shakzz", Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TM6g5vCY/download-1.jpg" group-title="Cutiepie", &Flix HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TM6g5vCY/download-1.jpg" group-title="Shakzz", &Flix HD
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kc6TsPYF/download-2.jpg" group-title="Cutiepie", Movies Sphere
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kc6TsPYF/download-2.jpg" group-title="Shakzz", Movies Sphere
 https://moviesphereuk-samsunguk.amagi.tv/720p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/605dx1xZ/download-1.png" group-title="Cutiepie", Blast Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/605dx1xZ/download-1.png" group-title="Shakzz", Blast Movies
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/i3o8I01" group-title="Cutiepie", ESPN-deportes
+#EXTINF:-1 tvg-logo="https://imgur.com/i3o8I01" group-title="Shakzz", ESPN-deportes
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="Cutiepie", SONY MAX
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="Shakzz", SONY MAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" group-title="Cutiepie", SONY PIX HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" group-title="Shakzz", SONY PIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
@@ -548,7 +560,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/depedch_sd/default/index.m
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/index.mpd
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
-
 
 
 ########## Converge TV ##########
@@ -1033,525 +1044,435 @@ http://161.49.17.2:6610/001/2/ch00000090990000001134/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001155/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
-**********CONVERGE 2**********
 
-#EXTINF:-1 group-logo="https://i.imgur.com/4iqV3FD.jpeg"
+########## Converge2 ##########
 
-#EXTINF:-1 tvg-id="1086" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133792284.png" group-title="CONVERGE 2",PTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1086/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
-
-#EXTINF:-1 tvg-id="1094" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133873954.png" group-title="CONVERGE 2",RPTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1094/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
-
-#EXTINF:-1 tvg-id="1078" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723612823404.png" group-title="CONVERGE 2",PBO
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1078/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
-
-#EXTINF:-1 tvg-id="1091" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134409636.png" group-title="CONVERGE 2",UNTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1091/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
-
-#EXTINF:-1 tvg-id="1143" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="CONVERGE 2",GTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1143/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
-
-#EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="CONVERGE 2",GMA 7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
-
-#EXTINF:-1 tvg-id="1340" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723604992973.png" group-title="CONVERGE 2",KNOWLEDGE CHANNEL
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1340/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
-
-#EXTINF:-1 tvg-id="1089" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128890006.png" group-title="CONVERGE 2",IBC 13
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1089/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
-
-#EXTINF:-1 tvg-id="1250" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128953472.png" group-title="CONVERGE 2",JEEPNEY TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1250/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
-
-#EXTINF:-1 tvg-id="1088" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134335547.png" group-title="CONVERGE 2",TV5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1088/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
-
-#EXTINF:-1 tvg-id="1106" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125590334.png" group-title="CONVERGE 2",CHANNEL NEWS ASIA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1106/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
-
-#EXTINF:-1 tvg-id="1083" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131202156.png" group-title="CONVERGE 2",ONE SPORTS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1083/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
-
-#EXTINF:-1 tvg-id="1092" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723605495653.png" group-title="CONVERGE 2",INC TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1092/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
-
-#EXTINF:-1 tvg-id="1286" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129013828.png" group-title="CONVERGE 2",KAPAMILYA HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1286/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
-
-#EXTINF:-1 tvg-id="1108" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125660668.png" group-title="CONVERGE 2",CINEMAX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1108/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
 
-#EXTINF:-1 tvg-id="1249" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1749519196399.png" group-title="CONVERGE 2",DZMM TELERADYO
+#EXTINF:-1 group-title="Converge 2",KAPAMILYA SD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1249/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.10:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=tRzTOpmGnFQO%2BLPz%2BYdiO1tIO5t7kXc%2B5TWDqBRKE%2FYw9hLZ8J1ElZC%2FWWIT6WZOqvjJr%2FpQ%2FQS4GeriEFi9sg%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1752071398378&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=70L2D05C8F5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451820251218173221586683&ispcode=55
 
-#EXTINF:-1 tvg-id="1104" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126078814.png" group-title="CONVERGE 2",EWTN
+#EXTINF:-1 group-title="Converge 2",TELERADYO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1104/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.3:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr70JxlZHE85iqqUwY%2BlbxPsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1153314047374&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=N3KWA75YPNMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451420260101155240188205&ispcode=55 
 
-#EXTINF:-1 tvg-id="1283" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125628005.png" group-title="CONVERGE 2",CINEMA ONE
+#EXTINF:-1 group-title="Converge 2",ANC HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1283/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.18:6610/001/2/ch00000090990000001274/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArDV011BfpAq1Gp53oE1jzo2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001693&contentid=ch00000000000000001693&videoid=ch00000090990000001274&recommendtype=0&userid=1652778683930&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HRKWD59PEBJXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451220260101155241052582&ispcode=55 
 
-#EXTINF:-1 tvg-id="1252" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129763447.png" group-title="CONVERGE 2",MYX
+#EXTINF:-1 group-title="Converge 2",MYX PH
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1252/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://161.49.17.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApnsWBpPBgeEj%2FSfIRshYPE2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1373226745504&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=IPR0C7CNXRGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20449220260101155240184175&ispcode=55 
 
-#EXTINF:-1 tvg-id="1090" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129823252.png" group-title="CONVERGE 2",NET 25
+#EXTINF:-1 group-title="Converge 2",GMA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1090/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoLvT86fM74ocVChyFS93HUsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1438418816418&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BLJMICF8T5XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448620260101155237367179&ispcode=55 
 
-#EXTINF:-1 tvg-id="1077" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219252241.png" group-title="CONVERGE 2",CELESTIAL MOVIES PINOY
+#EXTINF:-1 group-title="Converge 2",GTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1077/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.10:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArwAtJC%2BsmBQ5ARU076BdkhsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1430687738767&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VTF7PQ0PAOMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446820260101155238998726&ispcode=55 
 
-#EXTINF:-1 tvg-id="1065" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126386617.png" group-title="CONVERGE 2",HBO
+#EXTINF:-1 group-title="Converge 2",ALL TV 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1065/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.2:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAow35sHUcBhGBpxqddBGYEnsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1260075967329&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HKF4YXSGDBXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453020260101155239201657&ispcode=55 
 
-#EXTINF:-1 tvg-id="1152" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1733707474289.png" group-title="CONVERGE 2",HALLYPOP
+#EXTINF:-1 group-title="Converge 2",TV5 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1152/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoh0xOsaoSFLqA0PEh9gVjisyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1099183361159&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZRUDOFEVUJOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155237311409&ispcode=55 
 
-#EXTINF:-1 tvg-id="1109" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125129835.png" group-title="CONVERGE 2",ALIW TV
+#EXTINF:-1 group-title="Converge 2",A2Z
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1109/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqHRrK8UUahwItHhKpXgPXKsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1162684427362&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8JVNIKBBFCRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20449220260101155236184115&ispcode=55 
 
-#EXTINF:-1 tvg-id="1087" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="CONVERGE 2",A2Z
+#EXTINF:-1 group-title="Converge 2",NET 25
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1087/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.159.20:6610/001/2/ch00000090990000001090/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApBCCDeDIJn9rDuWx8BszuXsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001217&contentid=ch00000000000000001217&videoid=ch00000090990000001090&recommendtype=0&userid=1684165009466&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CHD4K480U29XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448120260101155237039829&ispcode=55 
 
-#EXTINF:-1 tvg-id="1079" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134481136.png" group-title="CONVERGE 2",VIVA CINEMA
+#EXTINF:-1 group-title="Converge 2",IBC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1079/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.159.20:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAo0mldwqx%2BTfpKT3KIgGit9syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1773865046699&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HCPD4Q2RTHUXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448620260101155237367182&ispcode=55 
 
-#EXTINF:-1 tvg-id="1159" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133830822.png" group-title="CONVERGE 2",RJTV 29
+#EXTINF:-1 group-title="Converge 2",UNTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1159/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.2:6610/001/2/ch00000090990000001091/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp8EKxpteUJNLDuI18c3YYNsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001177&contentid=ch00000000000000001177&videoid=ch00000090990000001091&recommendtype=0&userid=1919529437122&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0IIXG199OEXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453620260101155237199041&ispcode=55 
 
-#EXTINF:-1 tvg-id="1178" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125431025.png" group-title="CONVERGE 2",CARTOON NETWORK
+#EXTINF:-1 group-title="Converge 2",PTV4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1178/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.3:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAogpxrMDVv1bZ%2FeMkgHZmwQsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1724481380384&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G7YS6I1YWACXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445720260101155236145577&ispcode=55 
 
-#EXTINF:-1 tvg-id="1223" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125521068.png" group-title="CONVERGE 2",CCTV4
+#EXTINF:-1 group-title="Converge 2",DZRH TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1223/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001174/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAorTFLlVQhyuanlrUuZnA07syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001322&contentid=ch00000000000000001322&videoid=ch00000090990000001174&recommendtype=0&userid=1908252107440&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1K7CIFTC44QXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447320260101155238274429&ispcode=55 
 
-#EXTINF:-1 tvg-id="1073" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125798255.png" group-title="CONVERGE 2",CNN
+#EXTINF:-1 group-title="Converge 2",KNOWLEDGE CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1073/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.26:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApqUIe1xo9fgdQj%2FdedKSTy2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1514047870290&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KJP238FL9SHXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453120260101155242063294&ispcode=55 
 
-#EXTINF:-1 tvg-id="1174" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126004028.png" group-title="CONVERGE 2",DZRH
+#EXTINF:-1 group-title="Converge 2",ALIW CHANNEL 23
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1174/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.30:6610/001/2/ch00000090990000001109/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp%2BWYKp0pXQLOnfpLMLHi2tsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001234&contentid=ch00000000000000001234&videoid=ch00000090990000001109&recommendtype=0&userid=1860238582120&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6WO7AWCG0YYXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448120260101155238039836&ispcode=55 
 
-#EXTINF:-1 tvg-id="1263" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129053549.png" group-title="CONVERGE 2",KIX
+#EXTINF:-1 group-title="Converge 2",CLTV 36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1263/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.3:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp7Iya5QVRTA1RELFN4tQIJ2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001814&contentid=ch00000000000000001814&videoid=ch00000090990000001314&recommendtype=0&userid=1662150007478&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UAIG9NVEJ1AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446920260101155241033759&ispcode=55 
 
-#EXTINF:-1 tvg-id="1102" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126284675.png" group-title="CONVERGE 2",FASHION TV
+#EXTINF:-1 group-title="Converge 2",RJ TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1102/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://161.49.17.2:6610/001/2/ch00000090990000001338/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAquM2DhqYshrFbBoS4HC4mc2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001829&contentid=ch00000000000000001829&videoid=ch00000090990000001338&recommendtype=0&userid=1573154325684&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LFDH1A45249XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451120260101155241053415&ispcode=55 
 
-#EXTINF:-1 tvg-id="1149" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134180637.png" group-title="CONVERGE 2",TAP TV
+#EXTINF:-1 group-title="Converge 2",RJTV 29
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1149/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001159/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAreKmZs4H3Zuj6jrvRtgmFqsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001395&contentid=ch00000000000000001395&videoid=ch00000090990000001159&recommendtype=0&userid=1729424919499&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7X20ZDCU47CXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451220260101155239052561&ispcode=55 
 
-#EXTINF:-1 tvg-id="1202" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219661968.png" group-title="CONVERGE 2",STAR CHANNEL 1
+#EXTINF:-1 group-title="Converge 2",ONE MEDIA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1202/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.159.20:6610/001/2/ch00000090990000001234/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp6sHVPy02nySMqUY2vMm%2BjsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001523&contentid=ch00000000000000001523&videoid=ch00000090990000001234&recommendtype=0&userid=1526361783035&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=631X1DC4AX9XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20449520260101155240223296&ispcode=55 
 
-#EXTINF:-1 tvg-id="1151" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134161793.png" group-title="CONVERGE 2",TAP SPORTS
+#EXTINF:-1 group-title="Converge 2",ONE PH
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1151/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.2:6610/001/2/ch00000090990000001198/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApEZXvFy78Lv6DKuHrHIWsTsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001418&contentid=ch00000000000000001418&videoid=ch00000090990000001198&recommendtype=0&userid=1529671159516&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P4UJ3LAHAFIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451520260101155239020714&ispcode=55 
 
-#EXTINF:-1 tvg-id="1267" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129722508.png" group-title="CONVERGE 2",METRO
+#EXTINF:-1 group-title="Converge 2",ONE NEWS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1267/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.159.18:6610/001/2/ch00000090990000001084/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArVgubraL%2BIHu4fk7y9Ng6RsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001174&contentid=ch00000000000000001174&videoid=ch00000090990000001084&recommendtype=0&userid=1850724200018&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6CBAIKZS5PAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446220260101155236280404&ispcode=55 
 
-#EXTINF:-1 tvg-id="1179" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723136602348.png" group-title="CONVERGE 2",ALL TV
+#EXTINF:-1 group-title="Converge 2",CINEMO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1179/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApP1%2FTBq4G4yW%2Bysf7XC2GUsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1627619394946&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ENDPNYXUMN7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445320260101155240172236&ispcode=55 
 
-#EXTINF:-1 tvg-id="1216" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219396137.png" group-title="CONVERGE 2",ANC HD
+#EXTINF:-1 group-title="Converge 2",CINEMA ONE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1216/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.10:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr2cQyuTRlDkHeiqeVidUqqsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1481102669463&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7TIMXILHNX5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445520260101155240041967&ispcode=55 
 
-#EXTINF:-1 tvg-id="1234" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1735903243498.png" group-title="CONVERGE 2",GNN tv44
+#EXTINF:-1 group-title="Converge 2",VIVA CINEMA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1234/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.159.20:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoglCgy7TAZamPXsCV8PgebsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1022847749017&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LZTWKL0XP7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445920260101155236183812&ispcode=55 
 
-#EXTINF:-1 tvg-id="1166" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723606286242.png" group-title="CONVERGE 2",DEUTSCHE WELLE
+#EXTINF:-1 group-title="Converge 2",PBO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1166/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.18:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq9SZLE5HgafIcQ2VcLQB9EsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1960500443734&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8WK79ZSBXVGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447120260101155236008695&ispcode=55 
 
-#EXTINF:-1 tvg-id="1150" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134099364.png" group-title="CONVERGE 2",TAP EDGE
+#EXTINF:-1 group-title="Converge 2",STAR 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1150/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.10:6610/001/2/ch00000090990000001202/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAo5DOWlb1sl%2Btaq5YYAtO9QsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001421&contentid=ch00000000000000001421&videoid=ch00000090990000001202&recommendtype=0&userid=1215773067669&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RX498RVAIHMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446220260101155239280448&ispcode=55 
 
-#EXTINF:-1 tvg-id="1337" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723124083530.png" group-title="CONVERGE 2",XINGKONG
+#EXTINF:-1 group-title="Converge 2",TAP ACTION FLIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1337/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://161.49.17.2:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApahcUJJEYAxPtEef94INw12%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1992031084771&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HTEZZPU574PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448720260101155241186367&ispcode=55 
 
-#EXTINF:-1 tvg-id="1112" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134391817.png" group-title="CONVERGE 2",TVE
+#EXTINF:-1 group-title="Converge 2",TAP MOVIES
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1112/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.10:6610/001/2/ch00000090990000001304/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArqmX9tLke4aZIpUgreyOpN2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001774&contentid=ch00000000000000001774&videoid=ch00000090990000001304&recommendtype=0&userid=1535415299339&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KA8C98C3ZAXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453120260101155241063274&ispcode=55 
 
-#EXTINF:-1 tvg-id="1214" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129897469.png" group-title="CONVERGE 2",NHK BS1
+#EXTINF:-1 group-title="Converge 2",TAP TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1214/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.3:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAroVo9XMLpd0k2y9rVerSvmsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1130216695762&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OXNJGU1PKJQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447120260101155238008728&ispcode=55 
 
-#EXTINF:-1 tvg-id="1081" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134030645.png" group-title="CONVERGE 2",SOLAR SPORTS
+#EXTINF:-1 group-title="Converge 2",TAP EDGE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1081/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.26:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq%2B2uVbDOBwGF5t4YHKR5dbsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001320&contentid=ch00000000000000001320&videoid=ch00000090990000001150&recommendtype=0&userid=1226123292884&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DO0EYWTCAYKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447020260101155238141592&ispcode=55 
 
-#EXTINF:-1 tvg-id="1113" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131346405.png" group-title="CONVERGE 2",PHOENIX CHINESE
+#EXTINF:-1 group-title="Converge 2",TMC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1113/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.2:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHx%2Fyl86rMkFVqtHp1NtQIsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1388444659651&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VT2SEXWH4EOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445620260101155236094993&ispcode=55 
 
-#EXTINF:-1 tvg-id="1156" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134373931.png" group-title="CONVERGE 2",TV5MONDE
+#EXTINF:-1 group-title="Converge 2",CELESTIAL MOVIES PINOY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1156/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.30:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHUpvQtyXgWxpVCozt4hcgsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1058297419636&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B8CE333QUH6XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447420260101155236077598&ispcode=55 
 
-#EXTINF:-1 tvg-id="1314" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125735177.png" group-title="CONVERGE 2",CLTV36
+#EXTINF:-1 group-title="Converge 2",CCM MOVIES
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1314/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp8jImOa2AKrqwa1m%2FJfhcesyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001544&contentid=ch00000000000000001544&videoid=ch00000090990000001244&recommendtype=0&userid=1488531249398&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M5E3S23XZ6XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20449720260101155240980674&ispcode=55 
 
-#EXTINF:-1 tvg-id="1213" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723130002404.png" group-title="CONVERGE 2",BS PREMIUM
+#EXTINF:-1 group-title="Converge 2",CINEMAX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1213/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://161.49.17.2:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoD7Jkv0l3sE1jz6821dGRWsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1499683383370&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=W0IF3T6I0YAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448720260101155238186329&ispcode=55 
 
-#EXTINF:-1 tvg-id="1327" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133809689.png" group-title="CONVERGE 2",RADIO MARIA
+#EXTINF:-1 group-title="Converge 2",HBO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1327/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAosKg8aLji3LHWqHUI%2FwQyJsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1368249806492&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NJY3IWFAY6XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448820260101155236346387&ispcode=55 
 
-#EXTINF:-1 tvg-id="1146" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125560281.png" group-title="CONVERGE 2",CGTN
+#EXTINF:-1 group-title="Converge 2",THRILL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1146/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq7M3KTlp1dzcZcVVxlNmQdsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1158498506531&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EZ3GLGN6GRKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446720260101155240169312&ispcode=55 
 
-#EXTINF:-1 tvg-id="1165" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219327674.png" group-title="CONVERGE 2",BS FUJI
+#EXTINF:-1 group-title="Converge 2",SOLARFLIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1165/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.2:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApbUxUxZzyq5Czg7gUnQAcvsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1701764478515&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=X2HJNQYJ1AXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447120260101155240008753&ispcode=55 
 
-#EXTINF:-1 tvg-id="1096" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134500990.png" group-title="CONVERGE 2",WARNER TV
+#EXTINF:-1 group-title="Converge 2",JEEPNEY TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1096/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.30:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApGbNnk2H5Bi8k4yR%2B9AHGFsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1624655152366&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=69N1081CFIMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446920260101155240033749&ispcode=55 
 
-#EXTINF:-1 tvg-id="1123" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1730362635883.png" group-title="CONVERGE 2",MINDANOW
+#EXTINF:-1 group-title="Converge 2",RPTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1123/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.10:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAplioRPAB6XCf%2FrlkX7xxQZsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001215&contentid=ch00000000000000001215&videoid=ch00000090990000001094&recommendtype=0&userid=1081770087899&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CAU2BH0AOZJXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453620260101155237199048&ispcode=55 
 
-#EXTINF:-1 tvg-id="1111" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125072025.png" group-title="CONVERGE 2",ABC AUSTRALIA
+#EXTINF:-1 group-title="Converge 2",ONE SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1111/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApiZhzOAmsfItUIS2UHXxD0syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1071962425102&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4H9039UO28ZXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451820260101155236142588&ispcode=55 
 
-#EXTINF:-1 tvg-id="1145" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131229501.png" group-title="CONVERGE 2",NHK WORLD
+#EXTINF:-1 group-title="Converge 2",TAP SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1145/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.159.20:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvuCQC%2BfGfSFGYE2TZKWpbsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1152003704638&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=5ZMK2MIJY75XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445320260101155238172211&ispcode=55 
 
-#EXTINF:-1 tvg-id="1343" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125103446.png" group-title="CONVERGE 2",AL JAZEERA
+#EXTINF:-1 group-title="Converge 2",PINOY XTREAM CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1343/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.18:6610/001/2/ch00000090990000001098/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApC219uqwL0dVmslrkAjamFsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001222&contentid=ch00000000000000001222&videoid=ch00000090990000001098&recommendtype=0&userid=1869817604648&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NKXBKKPYOEXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448020260101155237185089&ispcode=55 
 
-#EXTINF:-1 tvg-id="1124" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723605539308.png" group-title="CONVERGE 2",BILYONARYO NEWS HD
+#EXTINF:-1 group-title="Converge 2",SOLAR SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1124/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.159.20:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApTfGIKxFqRM2tu30PzY%2FKksyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001087&contentid=ch00000000000000001087&videoid=ch00000090990000001081&recommendtype=0&userid=1660983599746&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BKS53DBOW29XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445520260101155236041906&ispcode=55 
 
-#EXTINF:-1 tvg-id="1107" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125337224.png" group-title="CONVERGE 2",ARIRANG
+#EXTINF:-1 group-title="Converge 2",SLA JUNIOR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1107/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://161.49.17.2:6610/001/2/ch00000090990000001324/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqyoB01u%2BQHpxktGNSf54NH2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001824&contentid=ch00000000000000001824&videoid=ch00000090990000001324&recommendtype=0&userid=1750686433855&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KS7A4VEK8C7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447120260101155241008781&ispcode=55 
 
-#EXTINF:-1 tvg-id="1254" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219276891.png" group-title="CONVERGE 2",CINEMO
+#EXTINF:-1 group-title="Converge 2",BBC NEWS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1254/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.30:6610/001/2/ch00000090990000001144/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoS213aSan0K8PDwf0g%2BPDMsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001314&contentid=ch00000000000000001314&videoid=ch00000090990000001144&recommendtype=0&userid=1617976077926&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8D8KL1IJM8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451420260101155238188159&ispcode=55 
 
-#EXTINF:-1 tvg-id="1304" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134117906.png" group-title="CONVERGE 2",TAP MOVIES
+#EXTINF:-1 group-title="Converge 2",DISCOVERY ASIA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1304/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.10:6610/001/2/ch00000090990000001334/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvvSnkxKfMhap8P4VuFwrV2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001816&contentid=ch00000000000000001816&videoid=ch00000090990000001334&recommendtype=0&userid=1996608135992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0WQVURILRBKFXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453320260101155241048997&ispcode=55 
 
-#EXTINF:-1 tvg-id="1305" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134076089.png" group-title="CONVERGE 2",TAP ACTION FLIX
+#EXTINF:-1 group-title="Converge 2",CGTN DOCUMENTARY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1305/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.30:6610/001/2/ch00000090990000001110/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArdyomhJMtr4RuT7a45TbNMsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001253&contentid=ch00000000000000001253&videoid=ch00000090990000001110&recommendtype=0&userid=1624995133910&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YIL44C7PHAXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448720260101155238186331&ispcode=55 
 
-#EXTINF:-1 tvg-id="1080" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219688328.png" group-title="CONVERGE 2",TMC
+#EXTINF:-1 group-title="Converge 2",CGTN CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1080/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://161.49.17.2:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq0bLdlQQxjquEy7BUYBE%2BOsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1425279458636&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=S46OQZ6HHOXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451820260101155238142604&ispcode=55 
 
-#EXTINF:-1 tvg-id="1244" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219296797.png" group-title="CONVERGE 2",CELESTIALCLASSIC MOVIES
+#EXTINF:-1 group-title="Converge 2",CHANNEL NEWS ASIA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1244/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.3:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqhARVluhpunJiYdQ%2BUDM8fsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001181&contentid=ch00000000000000001181&videoid=ch00000090990000001106&recommendtype=0&userid=1659725106067&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=WL3Z4DGO41EXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451820260101155237142593&ispcode=55 
 
-#EXTINF:-1 tvg-id="1154" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723605044807.png" group-title="CONVERGE 2",LIVING ASIA
+#EXTINF:-1 group-title="Converge 2",ARIRANG
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1154/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.26:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArA9GNo9at0BwcO0MP5gH5%2BsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001221&contentid=ch00000000000000001221&videoid=ch00000090990000001107&recommendtype=0&userid=1063586735163&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=53VZTWI9E8MXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451420260101155237188154&ispcode=55 
 
-#EXTINF:-1 tvg-id="1253" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134284048.png" group-title="CONVERGE 2",THRILL
+#EXTINF:-1 group-title="Converge 2",NHK BS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1253/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvraU%2BA8%2FN%2B6NCam0oBPn1syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001445&contentid=ch00000000000000001445&videoid=ch00000090990000001214&recommendtype=0&userid=1359033252120&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OPBUENZVWSGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20452820260101155239103653&ispcode=55 
 
-#EXTINF:-1 tvg-id="1155" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133929628.png" group-title="CONVERGE 2",SMNI
+#EXTINF:-1 group-title="Converge 2",ANIMAL PLANET
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1155/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://161.49.17.2:6610/001/2/ch00000090990000001335/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApMs3LsiO6wq83YHtJwM7wV2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001825&contentid=ch00000000000000001825&videoid=ch00000090990000001335&recommendtype=0&userid=1196740911215&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=87D9GXACFV2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445820260101155241166072&ispcode=55 
 
-#EXTINF:-1 tvg-id="1406" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126027555.png" group-title="CONVERGE 2",EDGESPORT
+#EXTINF:-1 group-title="Converge 2",CRIME INVESTIGATION
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1406/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.30:6610/001/2/ch00000090990000001144/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoS213aSan0K8PDwf0g%2BPDMsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001314&contentid=ch00000000000000001314&videoid=ch00000090990000001144&recommendtype=0&userid=1617976077926&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8D8KL1IJM8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451420260101155238188159&ispcode=55 
 
-#EXTINF:-1 tvg-id="1103" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129682729.png" group-title="CONVERGE 2",Light TV
+#EXTINF:-1 group-title="Converge 2",ALJAZEERA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1103/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApIEgcDfK9VMvZFzWy7ZaCt2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001826&contentid=ch00000000000000001826&videoid=ch00000090990000001343&recommendtype=0&userid=1348066725359&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=5XCX4OM7YT7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453320260101155241049001&ispcode=55 
 
-#EXTINF:-1 tvg-id="1125" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219376954.png" group-title="CONVERGE 2",CARTOONITO
+#EXTINF:-1 group-title="Converge 2",KBS WORLD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1125/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447520260101155242866685&ispcode=55 
 
-#EXTINF:-1 tvg-id="1195" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126098951.png" group-title="CONVERGE 2",FILAM TV
+#EXTINF:-1 group-title="Converge 2",KBS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1195/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.10:6610/001/2/ch00000090990000001344/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApysTfm9HUYOIUKeEg06TC92%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001831&contentid=ch00000000000000001831&videoid=ch00000090990000001344&recommendtype=0&userid=1777990310694&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=C8PY4MIU51HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448120260101155242039879&ispcode=55 
 
-#EXTINF:-1 tvg-id="1127" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723132198713.png" group-title="CONVERGE 2",PREMIER FOOTBALL
+#EXTINF:-1 group-title="Converge 2",NHK WORLD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1127/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://161.49.17.2:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqZTKpeZkGzV2we2%2BZ6q6g3syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001315&contentid=ch00000000000000001315&videoid=ch00000090990000001145&recommendtype=0&userid=1404568285744&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MIA1EKCJ1UFXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447720260101155238222344&ispcode=55 
 
-#EXTINF:-1 tvg-id="1134" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219709476.png" group-title="CONVERGE 2",VEGAS LIFE
+#EXTINF:-1 group-title="Converge 2",XINGKONG
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1134/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApMjcsBWP9w%2FYVgaofn83Oe2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1080635120275&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FRX9ZPZFU39XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447620260101155241081113&ispcode=55 
 
-#EXTINF:-1 tvg-id="1204" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133748606.png" group-title="CONVERGE 2",PREMIER SPORTS 2
+#EXTINF:-1 group-title="Converge 2",BS PREMIUM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1204/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.10:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqH%2B5l99GK8Rg%2FAZvU0C4flsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001376&contentid=ch00000000000000001376&videoid=ch00000090990000001165&recommendtype=0&userid=1819022413813&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02C8ZA4KMMUKXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453620260101155239199069&ispcode=55 
 
-#EXTINF:-1 tvg-id="1196" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129704683.png" group-title="CONVERGE 2",LOTUS
+#EXTINF:-1 group-title="Converge 2",WARNER TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1196/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqRhIO4pq%2FZNG%2BJhjsEpHHCsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1960431864174&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=JLYLAQSERX9XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446220260101155237280423&ispcode=55 
 
-#EXTINF:-1 tvg-id="1243" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134009531.png" group-title="CONVERGE 2",SOLAR FLIX
+#EXTINF:-1 group-title="Converge 2",ABC AUSTRALIA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1243/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.10:6610/001/2/ch00000090990000001111/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApS6W%2B6YCeAzzWlWVs9TWyRsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001273&contentid=ch00000000000000001273&videoid=ch00000090990000001111&recommendtype=0&userid=1205963774685&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7M6DD68SX23XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445620260101155238095018&ispcode=55 
 
-#EXTINF:-1 tvg-id="1199" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134428182.png" group-title="CONVERGE 2",USA TODAY NEWS
+#EXTINF:-1 group-title="Converge 2",CCTV4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1199/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArXm%2BLs%2BN7C0jX0KTEhSJl3syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001483&contentid=ch00000000000000001483&videoid=ch00000090990000001223&recommendtype=0&userid=1703612119129&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LGO7QMYP53CXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448820260101155240346433&ispcode=55 
 
-#EXTINF:-1 tvg-id="1135" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133770267.png" group-title="CONVERGE 2",PREMIER SPORTS
+#EXTINF:-1 group-title="Converge 2",METRO CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1135/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr4hyjlpFsJWrmHS5nwWoXTsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1339539301753&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NU1C68YJPUXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446720260101155240169310&ispcode=55 
 
-#EXTINF:-1 tvg-id="1215" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723130097999.png" group-title="CONVERGE 2",NICK Jr.
+#EXTINF:-1 group-title="Converge 2",WION NEWS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1215/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.159.20:6610/001/2/ch00000090990000001265/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq8k274WYPuH9%2FjID6Bh2tQ2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001695&contentid=ch00000000000000001695&videoid=ch00000090990000001265&recommendtype=0&userid=1780179991829&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DARB71YAJ45XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453120260101155241063272&ispcode=55 
 
-#EXTINF:-1 tvg-id="1160" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134353936.png" group-title="CONVERGE 2",TV MARIA
+#EXTINF:-1 group-title="Converge 2",SEA TODAY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1160/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.18:6610/001/2/ch00000090990000001287/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp%2FXtsBqmRMPVZYpftK4PNzsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001566&contentid=ch00000000000000001566&videoid=ch00000090990000001287&recommendtype=0&userid=1393269675905&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7203BW7ZF75XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445720260101155240145619&ispcode=55 
 
-#EXTINF:-1 tvg-id="1177" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133849713.png" group-title="CONVERGE 2",ROCK TV OF MANILA
+#EXTINF:-1 group-title="Converge 2",DW NEWS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1177/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.10:6610/001/2/ch00000090990000001166/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoTcUYwq3PMi%2FTObKiSY6bDsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001377&contentid=ch00000000000000001377&videoid=ch00000090990000001166&recommendtype=0&userid=1791156066269&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8DYR6H98V3NXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451420260101155239188177&ispcode=55 
 
-#EXTINF:-1 tvg-id="1157" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126239977.png" group-title="CONVERGE 2",FRANCE 24
+#EXTINF:-1 group-title="Converge 2",FOX NEWS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1157/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.10:6610/001/2/ch00000090990000001105/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJrNGPTxGM8qlI%2FCYICZgnsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001220&contentid=ch00000000000000001220&videoid=ch00000090990000001105&recommendtype=0&userid=1221561345308&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=3IL8RUTMYBCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445320260101155237172197&ispcode=55 
 
-#EXTINF:-1 tvg-id="1176" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723612444093.png" group-title="CONVERGE 2",SAUDI TV
+#EXTINF:-1 group-title="Converge 2",EURO NEWS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1176/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.30:6610/001/2/ch00000090990000001336/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqhLZBm9kWDyfiRCDGdvX2q2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001827&contentid=ch00000000000000001827&videoid=ch00000090990000001336&recommendtype=0&userid=1181735797657&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B9K7OQAC78AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453620260101155241199112&ispcode=55 
 
-#EXTINF:-1 tvg-id="1175" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131279043.png" group-title="CONVERGE 2",ORAS NG HIMALA
+#EXTINF:-1 group-title="Converge 2",TV5 MONDE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1175/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.30:6610/001/2/ch00000090990000001156/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArZbWy4P3NKKVNXe3wACXZmsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001336&contentid=ch00000000000000001336&videoid=ch00000090990000001156&recommendtype=0&userid=1803929334074&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BBBWMA1IM45XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445920260101155238183837&ispcode=55 
 
-#EXTINF:-1 tvg-id="1147" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134224456.png" group-title="CONVERGE 2",TBN
+#EXTINF:-1 group-title="Converge 2",FRANCE24
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1147/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTaGFrenoiLCJpYXQiOjE3NjY3NjU1OTMsImV4cCI6MTc2NzE5NzU5MywiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3MTk3NTkzfQ.E16yfF2ojH2_veXdv7H-ZUC5S6_54SLAYbqhlhrlepU
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.158.18:6610/001/2/ch00000090990000001157/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr79DvzaC5n7CqXniN8aprYsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001337&contentid=ch00000000000000001337&videoid=ch00000090990000001157&recommendtype=0&userid=1869475038340&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4H65AUICYBXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447520260101155238866649&ispcode=55 
 
 ########## World TV ##########
 
@@ -2576,47 +2497,47 @@ https://pixeldrain.com/api/file/73hnsfQ1
 https://pixeldrain.com/u/EzwjBkSb
 
 #EXTINF:-1 tvg-id="dbz-bog" tvg-name="Dragon Ball Z: Battle of Gods" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlVZJn21VO6PpB0ngI8W5qMow70wBOrOk8y0DlrFAFGN051NvcmrgrAFj522nFr2GT11fGkpaC0v9vkbFOc7km-lmhRMwjWGWtZbfFGg" group-title="Movies", Dragon Ball Z: Battle of Gods
-https://series.Cutiepie.workers.dev/?id=1HdNzQ__MueYep_vtVCV8mArG5VMedGgb
+https://series.shakzz.workers.dev/?id=1HdNzQ__MueYep_vtVCV8mArG5VMedGgb
 
 ####### ONE PUNCH MAN ########
 
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ep1" tvg-name="Episode 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 1
-https://series.Cutiepie.workers.dev/?id=1FEVkSBw1g5gwz4YimKTuBWfs5kFW0nUq
+https://series.shakzz.workers.dev/?id=1FEVkSBw1g5gwz4YimKTuBWfs5kFW0nUq
 
 #EXTINF:-1 tvg-id="ep2" tvg-name="Episode 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 2
-https://series.Cutiepie.workers.dev/?id=1FSJH9-ttzymb41gX4RgMdA91ybE46eeo
+https://series.shakzz.workers.dev/?id=1FSJH9-ttzymb41gX4RgMdA91ybE46eeo
 
 #EXTINF:-1 tvg-id="ep3" tvg-name="Episode 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 3
-https://series.Cutiepie.workers.dev/?id=1FZSG0tsRdQFwDlexnqCTAPXIn44Zdyl5
+https://series.shakzz.workers.dev/?id=1FZSG0tsRdQFwDlexnqCTAPXIn44Zdyl5
 
 #EXTINF:-1 tvg-id="ep4" tvg-name="Episode 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 4
-https://series.Cutiepie.workers.dev/?id=1Fg-eY4_364iqKHV-Pr0dJELuLml0Nw5N
+https://series.shakzz.workers.dev/?id=1Fg-eY4_364iqKHV-Pr0dJELuLml0Nw5N
 
 #EXTINF:-1 tvg-id="ep5" tvg-name="Episode 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 5
-https://series.Cutiepie.workers.dev/?id=1FfAJd-wNkvL7du6_U-HL3YDmKRBONdky
+https://series.shakzz.workers.dev/?id=1FfAJd-wNkvL7du6_U-HL3YDmKRBONdky
 
 #EXTINF:-1 tvg-id="ep6" tvg-name="Episode 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 6
-https://series.Cutiepie.workers.dev/?id=1FqhQ0ei8O94p1S89waufyLcHSHrOOsaE
+https://series.shakzz.workers.dev/?id=1FqhQ0ei8O94p1S89waufyLcHSHrOOsaE
 
 #EXTINF:-1 tvg-id="ep7" tvg-name="Episode 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 7
-https://series.Cutiepie.workers.dev/?id=1FgY6TIJGFbDYjtT-aUI4vXHeOeY2Qn26
+https://series.shakzz.workers.dev/?id=1FgY6TIJGFbDYjtT-aUI4vXHeOeY2Qn26
 
 #EXTINF:-1 tvg-id="ep8" tvg-name="Episode 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 8
-https://series.Cutiepie.workers.dev/?id=1Fy-CVAKzIwyNG3pkCsn97eB0wIEdeWI4
+https://series.shakzz.workers.dev/?id=1Fy-CVAKzIwyNG3pkCsn97eB0wIEdeWI4
 
 #EXTINF:-1 tvg-id="ep9" tvg-name="Episode 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 9
-https://series.Cutiepie.workers.dev/?id=1FwuIRL_c_syiAQN5RMZv2mr_NmKeVVmn
+https://series.shakzz.workers.dev/?id=1FwuIRL_c_syiAQN5RMZv2mr_NmKeVVmn
 
 #EXTINF:-1 tvg-id="ep10" tvg-name="Episode 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 10
-https://series.Cutiepie.workers.dev/?id=1GBVyvg5ojhsLW6W1RR1KVH_lwS9JNwNf
+https://series.shakzz.workers.dev/?id=1GBVyvg5ojhsLW6W1RR1KVH_lwS9JNwNf
 
 #EXTINF:-1 tvg-id="ep11" tvg-name="Episode 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 11
-https://series.Cutiepie.workers.dev/?id=1G7zZkdzJKrh0PSejaxrmgkDMyI_WSjbH
+https://series.shakzz.workers.dev/?id=1G7zZkdzJKrh0PSejaxrmgkDMyI_WSjbH
 
 #EXTINF:-1 tvg-id="ep12" tvg-name="Episode 12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ERYHfvI8s0UnX2n1TZCEVZMxwTCMJcLF9IAolKFsNvjtptVCzaN4TFK&s=10" group-title="One Punch Man (Tag Dub)", One Punch Man (Tag Dub) EP 12
-https://series.Cutiepie.workers.dev/?id=1GEi51c0Oo6zkshEa1E1pagK591QbHMCW
+https://series.shakzz.workers.dev/?id=1GEi51c0Oo6zkshEa1E1pagK591QbHMCW
 
 ####### MY HERO ACADEMIA ########
 
@@ -2624,118 +2545,118 @@ https://series.Cutiepie.workers.dev/?id=1GEi51c0Oo6zkshEa1E1pagK591QbHMCW
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 1
-https://series.Cutiepie.workers.dev/?id=12rBQ2zQw4tSi2Fmii2lzRamR4233ads3
+https://series.shakzz.workers.dev/?id=12rBQ2zQw4tSi2Fmii2lzRamR4233ads3
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 2
-https://series.Cutiepie.workers.dev/?id=1uA5SGVEXleO6figHixpepeASmsjyK2EF
+https://series.shakzz.workers.dev/?id=1uA5SGVEXleO6figHixpepeASmsjyK2EF
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 3
-https://series.Cutiepie.workers.dev/?id=1Xzaxvi6HwoNkSewmNODjtD4DZrV133aM
+https://series.shakzz.workers.dev/?id=1Xzaxvi6HwoNkSewmNODjtD4DZrV133aM
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 4
-https://series.Cutiepie.workers.dev/?id=1GRiv8evXv8UvKjOmREk13VsfHNJcbxdF
+https://series.shakzz.workers.dev/?id=1GRiv8evXv8UvKjOmREk13VsfHNJcbxdF
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 5
-https://series.Cutiepie.workers.dev/?id=1sL1O49ApSGlFW0ItsPp-gl73rJk3V6Kr
+https://series.shakzz.workers.dev/?id=1sL1O49ApSGlFW0ItsPp-gl73rJk3V6Kr
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 6
-https://series.Cutiepie.workers.dev/?id=1cFnDAyzvJ4tiOIDKX3b9HdOSjF1GoaXU
+https://series.shakzz.workers.dev/?id=1cFnDAyzvJ4tiOIDKX3b9HdOSjF1GoaXU
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 7
-https://series.Cutiepie.workers.dev/?id=1TZMDCyMpAQemFsPJUo6t-wGygIS1t09S
+https://series.shakzz.workers.dev/?id=1TZMDCyMpAQemFsPJUo6t-wGygIS1t09S
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 8
-https://series.Cutiepie.workers.dev/?id=10x_AW2JNAYlZvmuzXCNUMKxqWazvkm4o
+https://series.shakzz.workers.dev/?id=10x_AW2JNAYlZvmuzXCNUMKxqWazvkm4o
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 9
-https://series.Cutiepie.workers.dev/?id=1DbsJ9oUcHUc2jjUriSeUPpSbaKVxuebv
+https://series.shakzz.workers.dev/?id=1DbsJ9oUcHUc2jjUriSeUPpSbaKVxuebv
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 10
-https://series.Cutiepie.workers.dev/?id=1flzuItH54yXvNAz4jtlKgBaqGCa5cDvS
+https://series.shakzz.workers.dev/?id=1flzuItH54yXvNAz4jtlKgBaqGCa5cDvS
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 11
-https://series.Cutiepie.workers.dev/?id=198rke-rZRDYJAZsYGuY0aarRD3velu4y
+https://series.shakzz.workers.dev/?id=198rke-rZRDYJAZsYGuY0aarRD3velu4y
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 12
-https://series.Cutiepie.workers.dev/?id=1kYRp-hj6UObK3cjM_JZffAB02FelYzvF
+https://series.shakzz.workers.dev/?id=1kYRp-hj6UObK3cjM_JZffAB02FelYzvF
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia Ep 13
-https://series.Cutiepie.workers.dev/?id=1ZOmLpVNfEOGPTeKSe-KV_bVho_LfZg0C
+https://series.shakzz.workers.dev/?id=1ZOmLpVNfEOGPTeKSe-KV_bVho_LfZg0C
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 1
-https://series.Cutiepie.workers.dev/?id=1wr73k7xxIe_7OSux5OZLV6dbkkwv9-1t
+https://series.shakzz.workers.dev/?id=1wr73k7xxIe_7OSux5OZLV6dbkkwv9-1t
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep  2
-https://series.Cutiepie.workers.dev/?id=1w9PHA2QNyeeGoTammtsOGsyERoRq3qKp
+https://series.shakzz.workers.dev/?id=1w9PHA2QNyeeGoTammtsOGsyERoRq3qKp
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 3
-https://series.Cutiepie.workers.dev/?id=1dNriqawpGCebW9XOXO7-HeiCtcWtvIlH
+https://series.shakzz.workers.dev/?id=1dNriqawpGCebW9XOXO7-HeiCtcWtvIlH
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 4
-https://series.Cutiepie.workers.dev/?id=1L0utPEJb0Ovg3KL7U2rShXGZxpBdKW9V
+https://series.shakzz.workers.dev/?id=1L0utPEJb0Ovg3KL7U2rShXGZxpBdKW9V
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 5
-https://series.Cutiepie.workers.dev/?id=1cfL9GpyAsRMRocxUU6ESiDC2eteo1OMZ
+https://series.shakzz.workers.dev/?id=1cfL9GpyAsRMRocxUU6ESiDC2eteo1OMZ
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 6
-https://series.Cutiepie.workers.dev/?id=17LdGqYiX21E6dOl_xtmZNKaeZ744cpF-
+https://series.shakzz.workers.dev/?id=17LdGqYiX21E6dOl_xtmZNKaeZ744cpF-
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 7
-https://series.Cutiepie.workers.dev/?id=1hx2t8uKYwrKCEn5k_UwZQtnvUn8hfr0k
+https://series.shakzz.workers.dev/?id=1hx2t8uKYwrKCEn5k_UwZQtnvUn8hfr0k
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 8
-https://series.Cutiepie.workers.dev/?id=17L7yIwJ15iVaZFaWtAbh7847BVoDyWjU
+https://series.shakzz.workers.dev/?id=17L7yIwJ15iVaZFaWtAbh7847BVoDyWjU
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 9
-https://series.Cutiepie.workers.dev/?id=1DNascgeXxPgrrXwvnTugyUunS2eGWu4G
+https://series.shakzz.workers.dev/?id=1DNascgeXxPgrrXwvnTugyUunS2eGWu4G
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 10
-https://series.Cutiepie.workers.dev/?id=1tYnH8Y-912p2-UR7biM9u6XcOta9Zncj
+https://series.shakzz.workers.dev/?id=1tYnH8Y-912p2-UR7biM9u6XcOta9Zncj
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 11
-https://series.Cutiepie.workers.dev/?id=1lK1PwzznvwhirYfRTHdPl5BTh6VwQvU2
+https://series.shakzz.workers.dev/?id=1lK1PwzznvwhirYfRTHdPl5BTh6VwQvU2
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 12
-https://series.Cutiepie.workers.dev/?id=1KsXUu1n7Bm15zY2cbJZGietG6mz1kimS
+https://series.shakzz.workers.dev/?id=1KsXUu1n7Bm15zY2cbJZGietG6mz1kimS
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 13
-https://series.Cutiepie.workers.dev/?id=1nR2ETX_u8Mch6lDY5clhbwLBFeq9ujh2
+https://series.shakzz.workers.dev/?id=1nR2ETX_u8Mch6lDY5clhbwLBFeq9ujh2
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 14
-https://series.Cutiepie.workers.dev/?id=1x2j5 t1JaP1gRQKgLpP-sYoCR2lVunHl
+https://series.shakzz.workers.dev/?id=1x2j5 t1JaP1gRQKgLpP-sYoCR2lVunHl
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 15
-https://series.Cutiepie.workers.dev/?id=1cVxIbOwKK7TYvRstyGvdJ5F2GpvQBZQS
+https://series.shakzz.workers.dev/?id=1cVxIbOwKK7TYvRstyGvdJ5F2GpvQBZQS
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 16
-https://series.Cutiepie.workers.dev/?id=1Aqbdczjcfeh5VcMAgRnAI35DpABmLnn8
+https://series.shakzz.workers.dev/?id=1Aqbdczjcfeh5VcMAgRnAI35DpABmLnn8
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 17
-https://series.Cutiepie.workers.dev/?id=1OFRtSbJ-sy5IuYvawr8g3uY4_s3oprz9  
+https://series.shakzz.workers.dev/?id=1OFRtSbJ-sy5IuYvawr8g3uY4_s3oprz9  
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 18
-https://series.Cutiepie.workers.dev/?id=1BEHgjlkHBW2madwcr5Ct39G0C0LTgcDI
+https://series.shakzz.workers.dev/?id=1BEHgjlkHBW2madwcr5Ct39G0C0LTgcDI
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 19
-https://series.Cutiepie.workers.dev/?id=1UDg4i_Pp_mFPAgNygGTHyQ3qT5U70Aaf
+https://series.shakzz.workers.dev/?id=1UDg4i_Pp_mFPAgNygGTHyQ3qT5U70Aaf
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 20
-https://series.Cutiepie.workers.dev/?id=10hg1WiqeTGOj8TleUWe68O_vVOTZDzYW
+https://series.shakzz.workers.dev/?id=10hg1WiqeTGOj8TleUWe68O_vVOTZDzYW
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 21
-https://series.Cutiepie.workers.dev/?id=17KWJYJr7ep9lOg3AdMmm_TB665oVNBY-
+https://series.shakzz.workers.dev/?id=17KWJYJr7ep9lOg3AdMmm_TB665oVNBY-
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 22
-https://series.Cutiepie.workers.dev/?id=10t2KVjaS8QgJ3X0gvNC5ejom8QNt0k80
+https://series.shakzz.workers.dev/?id=10t2KVjaS8QgJ3X0gvNC5ejom8QNt0k80
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 23
-https://series.Cutiepie.workers.dev/?id=1yx4IfznTz3NVK2qL3puKxM0SmX_M_idO
+https://series.shakzz.workers.dev/?id=1yx4IfznTz3NVK2qL3puKxM0SmX_M_idO
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 24
-https://series.Cutiepie.workers.dev/?id=1GwJEkU53MU032YCiP-NlKDZZ0J-0mEac
+https://series.shakzz.workers.dev/?id=1GwJEkU53MU032YCiP-NlKDZZ0J-0mEac
 
 #EXTINF:-1 tvg-id="" tvg-name="Episode 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="My Hero Academia (Tag Dubbed) ", My Hero Academia S2 Ep 25
-https://series.Cutiepie.workers.dev/?id=1EGDy6dtNO6M3Nx59Sc-jeO7YP1nOIZF6
+https://series.shakzz.workers.dev/?id=1EGDy6dtNO6M3Nx59Sc-jeO7YP1nOIZF6
 
 
 
@@ -4534,6 +4455,7 @@ http://yesfmvalencia.radioca.st:8231/stream
 https://fast.citrus3.com:8484/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="zRadio – San Carlos – Central Luzon – PH" tvg-logo="" group-title="PH RADIO CHANNELS",zRadio – San Carlos – Central Luzon – PH
 http://streamnavs.net:8091/live
+
 
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 
