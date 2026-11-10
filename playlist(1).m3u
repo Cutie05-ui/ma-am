@@ -160,28 +160,29 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n5rdR3v.png" group-title="PBB", PBB All Access Stream
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
+#KODIPROP:inputstream.adaptive.license_key=8150b74d16324bb4b2ff62e3e202fc7a:0c5ed4f9db9d4ee61bbc91b3a51ef8b5
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n5rdR3v.png" group-title="PBB", PBB Main
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
-https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=1044e7ece2d741bcafe80d8613da104f:f5e17f169ff05ea40c5d3f065f523942
+https://absp-live.akamaized.net/dash/live/2099522/pinoybigbrothercollabedition30live/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n5rdR3v.png" group-title="PBB",  PBB Dining Area
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac87b335cfd44a8589f96a4f8534c674:4b9066c7778e74b899c2f57d977149b1
+#KODIPROP:inputstream.adaptive.license_key=737377f8bde649ee9eb563613b42395e:a3b3784c19979b7bdd9680b6f32a786c
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n5rdR3v.png" group-title="PBB", PBB External Den
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=01f5f16338aa4302b5fc5e3e2c50cd3d:0dbd0f05009fa64614de990f56b3f322
-https://absp-live.akamaized.net/das...30allaccesslivestream-diningarea/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=b750a40736a24e60b5a4f256208b92c5:af07292597f692726dcac2bd297ddf8e
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/manifest.mpd
 
-#EXTM3U
+################# CIGNAL MEDIAQUEST ###################
+
 #EXTINF:-1 tvg-id="KAPATID CHANNEL" tvg-name="KAPATID CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Cignal_logo.png/500px-Cignal_logo.png" group-title="Cignal",KAPATID CHANNEL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
